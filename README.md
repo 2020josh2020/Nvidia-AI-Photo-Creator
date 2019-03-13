@@ -1,4 +1,4 @@
 # Nvidia-AI-Photo-Creator
-Ai repo from nvidia 
+Ai repo from nvidia /n
 Use ML to create photo realistic images 
 https://venturebeat.com/2019/03/03/why-thispersondoesnotexist-and-its-copycats-need-to-be-restricted/
